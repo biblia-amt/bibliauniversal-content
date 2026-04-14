@@ -1,0 +1,29 @@
+{
+  "id": "ansiedad_paz_7",
+  "title": "Ansiedad y paz",
+  "subtitle": "7 días para entregar cargas y descansar en Dios",
+  "days": [
+    {
+      "day": 1,
+      "title": "Entrega la ansiedad",
+      "reference": "Filipenses 4:6",
+      "bookId": 50,
+      "chapter": 4,
+      "verse": 6,
+      "reflection": "La paz bíblica no niega lo que pasa. Te enseña a poner delante de Dios aquello que intenta gobernar tu corazón.",
+      "prayer": "Señor, hoy te entrego mi ansiedad. Guarda mi mente, ordena mis pensamientos y enséñame a descansar en tu cuidado.",
+      "action": "Escribe una preocupación concreta y conviértela en una oración breve."
+    },
+    {
+      "day": 2,
+      "title": "Dios cuida de ti",
+      "reference": "1 Pedro 5:7",
+      "bookId": 60,
+      "chapter": 5,
+      "verse": 7,
+      "reflection": "Dios no te pide cargar solo. Su cuidado también se recibe cuando sueltas aquello que llevas por dentro.",
+      "prayer": "Padre, pongo sobre ti mis cargas. Ayúdame a confiar en que tú cuidas de mí.",
+      "action": "Antes de dormir, repite en oración aquello que hoy decides entregar."
+    }
+  ]
+}

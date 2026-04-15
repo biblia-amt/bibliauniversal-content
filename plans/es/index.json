@@ -1,13 +1,13 @@
 {
   "plans": [
     {
-      "id": "lokito",
-      "title": "Ansiedad y paz",
-      "subtitle": "7 días para entregar cargas y descansar en Dios",
-      "days": 7,
-      "focus": ["paz", "ansiedad"],
-      "topicRoute": "tema_paz",
-      "file": "ansiedad_paz_7.json"
+      "id": "amar_herido",
+      "title": "Amar cuando has sido herido",
+      "subtitle": "8 días para sanar el corazón, discernir con verdad y aprender a amar sin negar lo vivido.",
+      "days": 8,
+      "focus": ["amor"],
+      "topicRoute": "amor",
+      "file": "amar_herido.json"
     }
   ]
 }

@@ -1,67 +1,293 @@
 {
-  "id": "lokito",
-  "title": "Ansiedad y paz",
-  "subtitle": "7 días para entregar cargas y descansar en Dios",
+  "id": "amar_herido_8",
+  "title": "Amar cuando has sido herido",
+  "subtitle": "Ocho días para sanar el corazón, discernir con verdad y aprender a amar sin negar lo vivido.",
+  "estimatedMinutes": 6,
+  "learningPoints": [
+    "Reconocer la herida delante de Dios con honestidad",
+    "Diferenciar amor de miedo, costumbre o tolerancia al daño",
+    "Perdonar, poner límites y volver a amar con sabiduría"
+  ],
   "days": [
     {
       "day": 1,
-      "title": "Entrega la ansiedad",
+      "title": "Dios no ignora tu dolor",
+      "focusLine": "Hoy recordarás que tu herida no está escondida de Dios ni fuera de su cuidado.",
+      "beforeReading": "Haz una pausa antes de leer y nómbrale a Dios, sin filtros, la parte de tu corazón que más duele.",
       "references": [
         {
-          "title": "Ora antes de angustiarte",
-          "reference": "Filipenses 4:6",
-          "bookId": 50,
-          "chapter": 4,
-          "verse": 6
-        },
-        {
-          "title": "No cargues el mañana",
-          "reference": "Mateo 6:34",
-          "bookId": 40,
-          "chapter": 6,
-          "verse": 34
-        },
-        {
-          "title": "Entrega tu carga",
-          "reference": "Salmos 55:22",
+          "title": "Lectura principal",
+          "reference": "Salmos 34:18",
           "bookId": 19,
-          "chapter": 55,
-          "verse": 22
+          "chapter": 34,
+          "verse": 18
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Salmos 147:3",
+          "bookId": 19,
+          "chapter": 147,
+          "verse": 3
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Mateo 11:28",
+          "bookId": 40,
+          "chapter": 11,
+          "verse": 28
         }
       ],
-      "reflection": "La paz bíblica no niega lo que pasa. Te enseña a poner delante de Dios aquello que intenta gobernar tu corazón. Antes de dejar que la ansiedad decida por ti, Dios te invita a hablar con Él con sinceridad.",
-      "prayer": "Señor, hoy te entrego mi ansiedad. Guarda mi mente, ordena mis pensamientos y enséñame a descansar en tu cuidado. Ayúdame a no vivir dominado por el miedo al mañana.",
-      "action": "Escribe una preocupación concreta y conviértela en una oración breve."
+      "passageHighlight": "Cercano está Jehová a los quebrantados de corazón.",
+      "reflection": "La sanidad empieza cuando dejas de minimizar lo que te pasó. Dios no te pide aparentar fortaleza para acercarte a Él. Te recibe precisamente en la parte rota, cansada y confusa de tu corazón. Amar después de una herida no comienza fingiendo que todo está bien, sino dejando que Dios toque con verdad lo que todavía duele.",
+      "question": "¿Qué parte de esta herida has cargado en silencio sin presentarla con honestidad delante de Dios?",
+      "prayer": "Señor, tú conoces lo que me dolió y lo que todavía pesa dentro de mí. No quiero esconderlo ni endurecerme. Acércate a mi corazón herido y comienza a sanar lo que no he sabido poner en palabras.",
+      "action": "Escribe en una frase concreta qué te dolió y preséntaselo a Dios en oración.",
+      "memoryVerse": "Cercano está Jehová a los quebrantados de corazón. — Salmos 34:18"
     },
     {
       "day": 2,
-      "title": "Dios cuida de ti",
+      "title": "Amar no es negar la verdad",
+      "focusLine": "Hoy aprenderás que el amor sano camina junto con la verdad, no con la negación.",
+      "beforeReading": "Pídele a Dios valentía para mirar con claridad lo que pasó, sin justificarlo ni exagerarlo.",
       "references": [
         {
-          "title": "Él cuida de ti",
+          "title": "Lectura principal",
+          "reference": "Efesios 4:15",
+          "bookId": 49,
+          "chapter": 4,
+          "verse": 15
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Juan 8:32",
+          "bookId": 43,
+          "chapter": 8,
+          "verse": 32
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Proverbios 12:19",
+          "bookId": 20,
+          "chapter": 12,
+          "verse": 19
+        }
+      ],
+      "passageHighlight": "Siguiendo la verdad en amor.",
+      "reflection": "No todo lo que se soporta es amor, y no todo lo que calla trae paz. A veces, por miedo a perder, uno aprende a disfrazar la herida, a llamar paciencia a lo que en realidad fue dolor no atendido. Pero el amor bíblico no necesita mentirse para mantenerse en pie. La verdad no destruye el amor sano; lo limpia, lo ordena y lo vuelve más firme.",
+      "question": "¿Qué verdad necesitas reconocer hoy que has estado evitando por miedo, culpa o costumbre?",
+      "prayer": "Dios, líbrame de confundir amor con negación. Enséñame a mirar con verdad lo que viví y a no esconder detrás del silencio lo que necesita ser sanado.",
+      "action": "Nombra una verdad concreta sobre lo que ocurrió, sin justificarla ni suavizarla.",
+      "memoryVerse": "Siguiendo la verdad en amor. — Efesios 4:15"
+    },
+    {
+      "day": 3,
+      "title": "Entrega la ofensa en manos de Dios",
+      "focusLine": "Hoy dejarás de cargar solo el peso de la ofensa y comenzarás a soltarla delante de Dios.",
+      "beforeReading": "Antes de abrir el pasaje, respira lento y dile a Dios qué injusticia te sigue ardiendo por dentro.",
+      "references": [
+        {
+          "title": "Lectura principal",
+          "reference": "Romanos 12:19",
+          "bookId": 45,
+          "chapter": 12,
+          "verse": 19
+        },
+        {
+          "title": "Lectura de apoyo",
           "reference": "1 Pedro 5:7",
           "bookId": 60,
           "chapter": 5,
           "verse": 7
         },
         {
-          "title": "Descanso para el alma",
-          "reference": "Mateo 11:28",
-          "bookId": 40,
-          "chapter": 11,
-          "verse": 28
-        },
-        {
-          "title": "Nada me faltará",
-          "reference": "Salmos 23:1",
+          "title": "Lectura de apoyo",
+          "reference": "Salmos 55:22",
           "bookId": 19,
-          "chapter": 23,
-          "verse": 1
+          "chapter": 55,
+          "verse": 22
         }
       ],
-      "reflection": "Dios no te pide cargar solo. Su cuidado también se recibe cuando sueltas aquello que llevas por dentro. Descansar en Dios no significa que todo desaparece al instante, sino que tu corazón ya no pelea sin compañía.",
-      "prayer": "Padre, pongo sobre ti mis cargas. Ayúdame a confiar en que tú cuidas de mí. Enséñame a descansar sin culpa y a reconocer tu presencia en medio de mis preocupaciones.",
-      "action": "Antes de dormir, repite en oración aquello que hoy decides entregar."
+      "passageHighlight": "No os venguéis vosotros mismos.",
+      "reflection": "La herida muchas veces deja dentro una conversación constante: defenderse, responder, demostrar, devolver. Pero cuando la ofensa gobierna tu interior, te sigue atando a lo que te dañó. Soltar la venganza no significa llamar bueno a lo malo; significa dejar de convertir el dolor en juez de tu corazón. Dios sabe hacer justicia sin destruirte por dentro.",
+      "question": "¿Qué deseo de devolver, demostrar o ajustar cuentas necesitas rendir hoy a Dios?",
+      "prayer": "Señor, tú sabes la ofensa que todavía me pesa. No quiero alimentar pensamientos que me consuman. Recibe mi dolor y enséñame a dejar en tus manos lo que yo no puedo resolver sin lastimarme más.",
+      "action": "Escribe una frase que empiece con: “Hoy te entrego, Señor...” y termina nombrando la ofensa.",
+      "memoryVerse": "No os venguéis vosotros mismos. — Romanos 12:19"
+    },
+    {
+      "day": 4,
+      "title": "Perdonar no es justificar",
+      "focusLine": "Hoy aprenderás que el perdón bíblico libera el corazón sin llamar bueno a lo que estuvo mal.",
+      "beforeReading": "Pídele a Dios entendimiento para distinguir entre perdonar y minimizar el daño.",
+      "references": [
+        {
+          "title": "Lectura principal",
+          "reference": "Colosenses 3:13",
+          "bookId": 51,
+          "chapter": 3,
+          "verse": 13
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Efesios 4:32",
+          "bookId": 49,
+          "chapter": 4,
+          "verse": 32
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Mateo 6:14",
+          "bookId": 40,
+          "chapter": 6,
+          "verse": 14
+        }
+      ],
+      "passageHighlight": "Perdonándoos unos a otros.",
+      "reflection": "Muchas personas temen perdonar porque sienten que eso borrará la gravedad de lo vivido. Pero el perdón no niega la verdad ni obliga a restaurar inmediatamente una relación. Perdonar es entregar a Dios el derecho de seguir alimentando resentimiento como forma de protección. No cambia el pasado, pero sí cambia la forma en que el pasado sigue ocupando tu corazón.",
+      "question": "¿Qué idea equivocada sobre el perdón te ha impedido empezar a soltar esta herida?",
+      "prayer": "Padre, enséñame a perdonar de una manera limpia y verdadera. No quiero aferrarme al resentimiento como si fuera mi única defensa. Guíame a soltar sin negar lo que pasó.",
+      "action": "Escribe esta frase y complétala con sinceridad: “Perdonar no significa..., pero sí significa...”",
+      "memoryVerse": "Perdonándoos unos a otros. — Colosenses 3:13"
+    },
+    {
+      "day": 5,
+      "title": "Pon límites con sabiduría",
+      "focusLine": "Hoy verás que amar también incluye proteger el corazón y ordenar el acceso a tu vida.",
+      "beforeReading": "Pídele a Dios discernimiento para reconocer dónde necesitas un límite claro y sano.",
+      "references": [
+        {
+          "title": "Lectura principal",
+          "reference": "Proverbios 4:23",
+          "bookId": 20,
+          "chapter": 4,
+          "verse": 23
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Romanos 12:18",
+          "bookId": 45,
+          "chapter": 12,
+          "verse": 18
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Mateo 10:16",
+          "bookId": 40,
+          "chapter": 10,
+          "verse": 16
+        }
+      ],
+      "passageHighlight": "Sobre toda cosa guardada, guarda tu corazón.",
+      "reflection": "A veces se piensa que poner límites es falta de amor, cuando en realidad puede ser una forma madura de caminar en verdad. Amar no significa permitir que otros entren una y otra vez a un lugar donde no han aprendido a cuidar. Los límites no siempre alejan; muchas veces ordenan, revelan y protegen. Un corazón sanando necesita claridad, no solo buenas intenciones.",
+      "question": "¿En qué relación o situación necesitas dejar de confundir amor con acceso ilimitado?",
+      "prayer": "Señor, dame sabiduría para amar sin perderme, para cuidar el corazón sin endurecerlo y para poner límites sin actuar desde orgullo ni miedo.",
+      "action": "Escribe un límite concreto y sano que necesitas empezar a respetar o comunicar.",
+      "memoryVerse": "Sobre toda cosa guardada, guarda tu corazón. — Proverbios 4:23"
+    },
+    {
+      "day": 6,
+      "title": "Dios puede sanar tu manera de amar",
+      "focusLine": "Hoy abrirás espacio para que Dios transforme no solo tu dolor, sino también tu forma de relacionarte.",
+      "beforeReading": "Antes de leer, pídele a Dios un corazón renovado, no solo aliviado.",
+      "references": [
+        {
+          "title": "Lectura principal",
+          "reference": "Ezequiel 36:26",
+          "bookId": 26,
+          "chapter": 36,
+          "verse": 26
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Salmos 51:10",
+          "bookId": 19,
+          "chapter": 51,
+          "verse": 10
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "2 Corintios 5:17",
+          "bookId": 47,
+          "chapter": 5,
+          "verse": 17
+        }
+      ],
+      "passageHighlight": "Os daré corazón nuevo.",
+      "reflection": "Cuando uno ha sido herido, no solo sufre por lo que pasó; también cambia su forma de vincularse. A veces aparece desconfianza, dureza, necesidad de control o miedo a volver a abrirse. Dios no solo quiere consolar tu dolor, también quiere tratar las marcas que dejó en tu manera de amar. Él puede renovar el corazón sin quitarle sensibilidad, y puede hacerlo más sabio sin volverlo frío.",
+      "question": "¿Qué cambio en tu manera de amar necesitas que Dios trabaje con más profundidad?",
+      "prayer": "Señor, dame un corazón nuevo. Sana no solo la herida, sino también las reacciones, defensas y patrones que nacieron de ella. Enséñame a amar desde una vida tratada por ti.",
+      "action": "Identifica una reacción que nació de tu herida y entrégasela hoy a Dios en oración.",
+      "memoryVerse": "Os daré corazón nuevo. — Ezequiel 36:26"
+    },
+    {
+      "day": 7,
+      "title": "No devuelvas mal por mal",
+      "focusLine": "Hoy aprenderás que la libertad no está en responder igual, sino en permanecer en el camino de Cristo.",
+      "beforeReading": "Pide al Señor dominio propio para no dejar que la herida dicte tu manera de responder.",
+      "references": [
+        {
+          "title": "Lectura principal",
+          "reference": "1 Pedro 3:9",
+          "bookId": 60,
+          "chapter": 3,
+          "verse": 9
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Romanos 12:21",
+          "bookId": 45,
+          "chapter": 12,
+          "verse": 21
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Lucas 6:27",
+          "bookId": 42,
+          "chapter": 6,
+          "verse": 27
+        }
+      ],
+      "passageHighlight": "No devolviendo mal por mal.",
+      "reflection": "La herida muchas veces quiere convencerte de que para protegerte debes endurecerte o responder igual. Pero no devolver mal por mal no es debilidad; es una forma profunda de libertad. Significa que el daño recibido no va a decidir el tipo de persona en la que te conviertes. Amar desde Cristo no te vuelve ingenuo; te vuelve firme, limpio y libre del veneno de la reacción.",
+      "question": "¿Qué respuesta impulsiva o defensiva necesitas dejar hoy antes de que se convierta en costumbre?",
+      "prayer": "Jesús, guarda mi manera de responder. No quiero que el dolor defina mis palabras, actitudes o decisiones. Enséñame a actuar con limpieza, verdad y dominio propio.",
+      "action": "Detén hoy una reacción impulsiva y reemplázala por una respuesta más sobria delante de Dios.",
+      "memoryVerse": "No devolviendo mal por mal. — 1 Pedro 3:9"
+    },
+    {
+      "day": 8,
+      "title": "Ama con discernimiento y paz",
+      "focusLine": "Hoy cerrarás este camino recordando que el amor maduro no es ciego: ve con claridad, discierne y permanece limpio.",
+      "beforeReading": "Pídele a Dios un amor guiado por su Espíritu, no por miedo, impulso o necesidad.",
+      "references": [
+        {
+          "title": "Lectura principal",
+          "reference": "Filipenses 1:9",
+          "bookId": 50,
+          "chapter": 1,
+          "verse": 9
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "Gálatas 5:22",
+          "bookId": 48,
+          "chapter": 5,
+          "verse": 22
+        },
+        {
+          "title": "Lectura de apoyo",
+          "reference": "1 Juan 4:19",
+          "bookId": 62,
+          "chapter": 4,
+          "verse": 19
+        }
+      ],
+      "passageHighlight": "Que vuestro amor abunde aún más y más en ciencia y en todo conocimiento.",
+      "reflection": "El amor que nace de un corazón tratado por Dios no es ingenuo ni precipitado. Aprende a discernir, a esperar, a poner límites, a decir verdad y a seguir caminando sin endurecerse. Tal vez no puedas resolver toda tu historia hoy, pero sí puedes salir de este proceso con una base más sana: amar desde la presencia de Dios y no desde la herida. Ese amor no es perfecto, pero sí más limpio, más sabio y más libre.",
+      "question": "¿Cómo se vería amar con verdad, paz y discernimiento en la etapa de vida en la que hoy estás?",
+      "prayer": "Señor, enséñame a amar de una manera sana, limpia y guiada por ti. Que mi corazón no se cierre por miedo ni se entregue sin sabiduría. Forma en mí un amor maduro, verdadero y lleno de tu paz.",
+      "action": "Escribe una decisión concreta para amar con más sabiduría a partir de hoy.",
+      "memoryVerse": "Que vuestro amor abunde aún más y más en ciencia y en todo conocimiento. — Filipenses 1:9"
     }
   ]
 }

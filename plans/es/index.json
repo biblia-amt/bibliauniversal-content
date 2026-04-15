@@ -8,15 +8,6 @@
       "focus": ["paz", "ansiedad"],
       "topicRoute": "tema_paz",
       "file": "ansiedad_paz_7.json"
-    },
-    {
-      "id": "volver_a_dios_3",
-      "title": "Volver a Dios",
-      "subtitle": "3 días para retomar tu ritmo espiritual",
-      "days": 3,
-      "focus": ["fe", "proposito"],
-      "topicRoute": "tema_oracion",
-      "file": "volver_a_dios_3.json"
     }
   ]
 }

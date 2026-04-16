@@ -20,11 +20,12 @@
           "reference": "Salmos 34:18-19",
           "bookId": 19,
           "chapter": 34,
-          "verse": 18-19
+          "startVerse": 18,
+          "endVerse": 19
         },
         {
           "title": "Lectura de apoyo",
-          "reference": "147:3",
+          "reference": "Salmos 147:3",
           "bookId": 19,
           "chapter": 147,
           "verse": 3
@@ -34,295 +35,54 @@
           "reference": "Mateo 11:28-29",
           "bookId": 40,
           "chapter": 11,
-          "verse": 28-29
+          "startVerse": 28,
+          "endVerse": 29
         }
       ],
       "passageHighlight": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
-      "reflection": "Una de las cargas más difíciles de llevar no es solo la herida en sí, sino la sensación de tener que seguir adelante como si nada hubiera pasado. Muchas personas aprenden a funcionar con el corazón lastimado. Siguen cumpliendo, siguen hablando, siguen sonriendo, siguen sirviendo, pero por dentro hay una parte que todavía sangra en silencio. Y cuando una herida se guarda demasiado tiempo sin ser llevada a la presencia de Dios, muchas veces comienza a influir en todo: en la forma de pensar, en la forma de amar, en la forma de reaccionar, en la forma de confiar.
-
-Este pasaje muestra algo profundamente consolador: Dios no se mantiene lejos del corazón quebrantado. Él no observa tu dolor desde la distancia. Él no te exige primero estar bien para luego acercarse. Él se acerca precisamente ahí, en el lugar roto, sensible, cansado y difícil de explicar. Eso significa que tu herida no te descalifica de su presencia; al contrario, se convierte en uno de los lugares donde más profundamente puedes experimentar su cercanía.
-
-A veces la herida viene de palabras que nunca debieron ser dichas. A veces viene de abandono, de rechazo, de traición, de frialdad, de promesas rotas o de una decepción que cambió algo dentro de ti. Y una de las consecuencias más fuertes del dolor es que empieza a alterar la manera en que miras el amor. Tal vez ahora te cuesta abrirte. Tal vez sospechas más rápido. Tal vez te proteges endureciéndote. Tal vez deseas amar, pero al mismo tiempo sientes miedo de volver a ser herido.
-
-Dios no te condena por eso. Él entiende lo que el dolor ha hecho dentro de ti mejor de lo que tú mismo puedes explicarlo. Él sabe qué parte de tu corazón se volvió más frágil y qué parte se volvió más dura. Él sabe dónde te cuesta confiar, dónde reaccionas desde la defensa, dónde te quedaste detenido por lo que viviste. Y aun así, su respuesta no es rechazo, sino cercanía.
-
-Es importante entender esto: sanar no empieza fingiendo fortaleza. Sanar no empieza repitiendo frases bonitas sin tocar la raíz. Sanar empieza cuando te permites ser verdadero delante de Dios. Cuando dejas de llamar “ya pasó” a lo que todavía duele. Cuando dejas de esconder lo que sigue afectando tus pensamientos, tus emociones y tus relaciones. La sinceridad delante del Señor no empeora la herida; abre espacio para que Él la trate.
-
-Tal vez has intentado protegerte no sintiendo tanto, no pensando tanto, no recordando tanto. Pero el corazón no sana solo porque algo deja de nombrarse. Muchas veces necesita ser traído a la luz, no para revivir el dolor inútilmente, sino para dejar de cargarlo solo. Dios no trabaja superficialmente. Él no pone una capa espiritual sobre una herida mal tratada. Él sana con verdad, con paciencia y con ternura.
-
-Hoy no se te está pidiendo resolver todo lo que sientes. Tampoco se te está pidiendo perdonar de golpe, restaurar relaciones de inmediato o entender todo el proceso. Hoy solo se te está invitando a comenzar por lo esencial: reconocer que sí hubo dolor, que sí dejó una marca y que sí necesitas a Dios en esa parte de tu vida. Ese paso, aunque parezca sencillo, es profundamente espiritual.
-
-Amar cuando has sido herido no empieza intentando amar mejor a otros. Empieza permitiendo que Dios mire contigo aquello que quedó lastimado. Empieza dejando de esconder la herida delante del único que puede tocarla sin destruirte. Empieza cuando descubres que no estás solo en tu quebranto y que la cercanía de Dios no es teoría, sino refugio real para el corazón cansado.
-
-Hoy recuerda esto: el Señor no se aleja de tu parte rota. Él se acerca. Y esa cercanía ya es el comienzo de la sanidad.",
+      "reflection": "Una de las cargas más difíciles de llevar no es solo la herida en sí, sino la sensación de tener que seguir adelante como si nada hubiera pasado.\n\nEste pasaje muestra algo profundamente consolador: Dios no se mantiene lejos del corazón quebrantado. Él no observa tu dolor desde la distancia. Él se acerca precisamente ahí, en el lugar roto, sensible, cansado y difícil de explicar.\n\nHoy recuerda esto: el Señor no se aleja de tu parte rota. Él se acerca. Y esa cercanía ya es el comienzo de la sanidad.",
       "question": "¿Qué herida concreta necesitas dejar de esconder hoy para presentarla con sinceridad delante de Dios?",
-      "prayer": "Señor, tú conoces la parte de mi corazón que todavía duele. Sabes lo que me quebró, lo que me marcó y lo que a veces todavía pesa más de lo que quisiera admitir. Hoy no quiero seguir escondiéndolo delante de ti. Me acerco con verdad, con cansancio y con necesidad. Acércate a mi herida, toca lo que está sensible o endurecido, y enséñame a empezar este proceso sin fingir. No permitas que el dolor gobierne mi interior en silencio. Recíbeme tal como estoy y comienza a sanar lo que todavía no sé cómo soltar.",
+      "prayer": "Señor, tú conoces la parte de mi corazón que todavía duele. Sabes lo que me quebró, lo que me marcó y lo que a veces todavía pesa más de lo que quisiera admitir. Hoy no quiero seguir escondiéndolo delante de ti. Me acerco con verdad, con cansancio y con necesidad.",
       "action": "Escribe en una sola frase qué fue lo que más te hirió, y luego preséntalo a Dios en una oración honesta, sin intentar sonar fuerte.",
       "memoryVerse": "Cercano está Jehová a los quebrantados de corazón. — Salmos 34:18"
     },
     {
       "day": 2,
       "title": "Amar no es negar la verdad",
-      "focusLine": "Hoy aprenderás que el amor sano no necesita mentirse para seguir existiendo. La verdad no destruye el amor verdadero; 
-                    lo limpia, lo ordena y lo vuelve más firme.",
-      "beforeReading": "Antes de abrir este pasaje, pídele a Dios valentía para mirar con claridad lo que viviste. No para llenarte de amargura, sino para dejar de llamar normal a lo que te dañó.,
+      "focusLine": "Hoy aprenderás que el amor sano no necesita mentirse para seguir existiendo. La verdad no destruye el amor verdadero; lo limpia, lo ordena y lo vuelve más firme.",
+      "beforeReading": "Antes de abrir este pasaje, pídele a Dios valentía para mirar con claridad lo que viviste. No para llenarte de amargura, sino para dejar de llamar normal a lo que te dañó.",
       "references": [
         {
           "title": "Lectura principal",
           "reference": "Efesios 4:15-16",
           "bookId": 49,
           "chapter": 4,
-          "verse": 15-16
+          "startVerse": 15,
+          "endVerse": 16
         },
         {
           "title": "Lectura de apoyo",
           "reference": "Juan 8:31-32",
           "bookId": 43,
           "chapter": 8,
-          "verse": 31-32
+          "startVerse": 31,
+          "endVerse": 32
         },
         {
           "title": "Lectura de apoyo",
           "reference": "Proverbios 12:17-18",
           "bookId": 20,
           "chapter": 12,
-          "verse": 17-18
+          "startVerse": 17,
+          "endVerse": 18
         }
       ],
       "passageHighlight": "Siguiendo la verdad en amor.",
-      "reflection": Después de haber sido herido, una de las confusiones más profundas es pensar que amar significa callar lo que dolió, minimizar lo que pasó o hacer como si la verdad fuera un estorbo para la paz. Muchas personas, por miedo a perder una relación, por miedo a quedarse solas o por miedo a parecer duras, aprenden a suavizar lo que vivieron. Le cambian el nombre al daño. Le llaman “malentendido” a lo que fue una herida repetida. Le llaman “debilidad” a lo que fue falta de cuidado. Le llaman “amor” a lo que muchas veces fue dependencia, costumbre o temor.
-
-Pero el amor bíblico nunca se construye sobre la mentira. El amor de Dios no necesita negar la verdad para sostenerse. Al contrario, la verdad es una de las formas en que Dios protege el corazón. Cuando la verdad falta, el alma se desordena. Cuando la verdad se evita, la herida se profundiza. Cuando la verdad se silencia por demasiado tiempo, el dolor empieza a echar raíces en lugares que luego afectan la confianza, la identidad y la manera de relacionarse.
-
-Decir la verdad no siempre significa confrontar inmediatamente a otra persona. A veces la primera verdad que necesitas decir es delante de Dios y delante de ti mismo. Reconocer que sí dolió. Reconocer que sí te afectó. Reconocer que no fue sano. Reconocer que una parte de ti se acostumbró a soportar lo que nunca debió normalizarse. Ese momento puede ser incómodo, pero también puede ser profundamente liberador.
-
-Hay heridas que permanecen abiertas no solo por lo que ocurrió, sino porque el corazón sigue peleando por acomodar una versión más soportable de la historia. Una versión menos dolorosa. Una versión más fácil de aceptar. Pero mientras la verdad siga escondida, la sanidad también se retrasa. Dios no sana la ficción que inventamos para sobrevivir; Dios sana la verdad que traemos humildemente a su presencia.
-
-También es importante entender que hablar verdad no es lo mismo que hablar desde rabia. Hay verdades que se dicen con orgullo, con deseo de herir, con necesidad de tener el control. Pero la Escritura habla de seguir la verdad en amor. Eso significa que la verdad no debe usarse como arma, pero tampoco debe ser enterrada por miedo. El amor maduro sabe nombrar lo real sin crueldad, y sabe cuidar el corazón sin caer en negación.
-
-Si has sido herido, quizá hoy te cuesta distinguir entre amor y tolerancia. Quizá has pensado que amar es aguantar, retroceder siempre, dar explicaciones por el otro, cubrir lo evidente o seguir cediendo para que todo “se mantenga en paz”. Pero la paz que depende de esconder la verdad no es paz verdadera. Tarde o temprano esa paz superficial se rompe, porque no fue levantada sobre sinceridad, sino sobre tensión contenida.
-
-Jesús dijo que la verdad hace libre. Y esa libertad no siempre empieza afuera; muchas veces empieza adentro. Empieza cuando dejas de defender una versión recortada de lo vivido. Empieza cuando te permites reconocer que hubo cosas que no estuvieron bien. Empieza cuando entiendes que llamar verdad a lo que pasó no te vuelve menos cristiano, menos amoroso o menos espiritual. Te vuelve más honesto delante de Dios.
-
-Amar cuando has sido herido no significa volverte desconfiado de todos, pero tampoco significa volver a ciegas. Significa aprender a amar con ojos abiertos. Con un corazón tratado por Dios. Con una sensibilidad que no niega la verdad, pero tampoco se entrega al cinismo. La verdad no vino para endurecerte, sino para ordenar lo que dentro de ti quedó confundido.
-
-Hoy puede ser un día importante si dejas de huir de lo que sabes en el fondo. Tal vez no tienes todas las palabras todavía, pero sí puedes empezar por una confesión sencilla: “Señor, esto fue real. Esto me dolió. Y no quiero seguir llamando amor a lo que me rompió por dentro.” Esa verdad, presentada con humildad, no te destruirá. Puede ser el comienzo de una libertad más profunda.
-
-No necesitas resolver todo hoy. Solo necesitas dar un paso hacia la luz. El amor sano no le teme a la verdad. Y el corazón que camina con Dios no necesita elegir entre amar y ser verdadero. En Cristo, ambas cosas pueden ir juntas.",
+      "reflection": "Después de haber sido herido, una de las confusiones más profundas es pensar que amar significa callar lo que dolió, minimizar lo que pasó o hacer como si la verdad fuera un estorbo para la paz.\n\nPero el amor bíblico nunca se construye sobre la mentira. El amor de Dios no necesita negar la verdad para sostenerse. Al contrario, la verdad es una de las formas en que Dios protege el corazón.\n\nNo necesitas resolver todo hoy. Solo necesitas dar un paso hacia la luz. El amor sano no le teme a la verdad.",
       "question": "¿Qué verdad sobre lo que viviste has estado evitando reconocer por miedo, culpa o costumbre?",
-      "prayer": "Señor, enséñame a no esconder detrás de palabras suaves aquello que me hirió de verdad. Líbrame de llamar amor a lo que no lo fue, y dame humildad para reconocer lo que necesito ver con claridad. No quiero endurecerme, pero tampoco quiero seguir negando lo que pasó. Guíame a caminar en verdad y en amor, con un corazón limpio delante de ti.",
+      "prayer": "Señor, enséñame a no esconder detrás de palabras suaves aquello que me hirió de verdad. Líbrame de llamar amor a lo que no lo fue, y dame humildad para reconocer lo que necesito ver con claridad.",
       "action": "Completa esta frase con honestidad: “Lo que más me cuesta aceptar con verdad sobre esta herida es...”",
       "memoryVerse": "Siguiendo la verdad en amor. — Efesios 4:15"
-    },
-    {
-      "day": 3,
-      "title": "Entrega la ofensa en manos de Dios",
-      "focusLine": "Hoy dejarás de cargar solo el peso de la ofensa y comenzarás a soltarla delante de Dios.",
-      "beforeReading": "Antes de abrir el pasaje, respira lento y dile a Dios qué injusticia te sigue ardiendo por dentro.",
-      "references": [
-        {
-          "title": "Lectura principal",
-          "reference": "Romanos 12:19",
-          "bookId": 45,
-          "chapter": 12,
-          "verse": 19
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "1 Pedro 5:7",
-          "bookId": 60,
-          "chapter": 5,
-          "verse": 7
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Salmos 55:22",
-          "bookId": 19,
-          "chapter": 55,
-          "verse": 22
-        }
-      ],
-      "passageHighlight": "No os venguéis vosotros mismos.",
-      "reflection": "La herida muchas veces deja dentro una conversación constante: defenderse, responder, demostrar, devolver. Pero cuando la ofensa gobierna tu interior, te sigue atando a lo que te dañó. Soltar la venganza no significa llamar bueno a lo malo; significa dejar de convertir el dolor en juez de tu corazón. Dios sabe hacer justicia sin destruirte por dentro.",
-      "question": "¿Qué deseo de devolver, demostrar o ajustar cuentas necesitas rendir hoy a Dios?",
-      "prayer": "Señor, tú sabes la ofensa que todavía me pesa. No quiero alimentar pensamientos que me consuman. Recibe mi dolor y enséñame a dejar en tus manos lo que yo no puedo resolver sin lastimarme más.",
-      "action": "Escribe una frase que empiece con: “Hoy te entrego, Señor...” y termina nombrando la ofensa.",
-      "memoryVerse": "No os venguéis vosotros mismos. — Romanos 12:19"
-    },
-    {
-      "day": 4,
-      "title": "Perdonar no es justificar",
-      "focusLine": "Hoy aprenderás que el perdón bíblico libera el corazón sin llamar bueno a lo que estuvo mal.",
-      "beforeReading": "Pídele a Dios entendimiento para distinguir entre perdonar y minimizar el daño.",
-      "references": [
-        {
-          "title": "Lectura principal",
-          "reference": "Colosenses 3:13",
-          "bookId": 51,
-          "chapter": 3,
-          "verse": 13
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Efesios 4:32",
-          "bookId": 49,
-          "chapter": 4,
-          "verse": 32
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Mateo 6:14",
-          "bookId": 40,
-          "chapter": 6,
-          "verse": 14
-        }
-      ],
-      "passageHighlight": "Perdonándoos unos a otros.",
-      "reflection": "Muchas personas temen perdonar porque sienten que eso borrará la gravedad de lo vivido. Pero el perdón no niega la verdad ni obliga a restaurar inmediatamente una relación. Perdonar es entregar a Dios el derecho de seguir alimentando resentimiento como forma de protección. No cambia el pasado, pero sí cambia la forma en que el pasado sigue ocupando tu corazón.",
-      "question": "¿Qué idea equivocada sobre el perdón te ha impedido empezar a soltar esta herida?",
-      "prayer": "Padre, enséñame a perdonar de una manera limpia y verdadera. No quiero aferrarme al resentimiento como si fuera mi única defensa. Guíame a soltar sin negar lo que pasó.",
-      "action": "Escribe esta frase y complétala con sinceridad: “Perdonar no significa..., pero sí significa...”",
-      "memoryVerse": "Perdonándoos unos a otros. — Colosenses 3:13"
-    },
-    {
-      "day": 5,
-      "title": "Pon límites con sabiduría",
-      "focusLine": "Hoy verás que amar también incluye proteger el corazón y ordenar el acceso a tu vida.",
-      "beforeReading": "Pídele a Dios discernimiento para reconocer dónde necesitas un límite claro y sano.",
-      "references": [
-        {
-          "title": "Lectura principal",
-          "reference": "Proverbios 4:23",
-          "bookId": 20,
-          "chapter": 4,
-          "verse": 23
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Romanos 12:18",
-          "bookId": 45,
-          "chapter": 12,
-          "verse": 18
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Mateo 10:16",
-          "bookId": 40,
-          "chapter": 10,
-          "verse": 16
-        }
-      ],
-      "passageHighlight": "Sobre toda cosa guardada, guarda tu corazón.",
-      "reflection": "A veces se piensa que poner límites es falta de amor, cuando en realidad puede ser una forma madura de caminar en verdad. Amar no significa permitir que otros entren una y otra vez a un lugar donde no han aprendido a cuidar. Los límites no siempre alejan; muchas veces ordenan, revelan y protegen. Un corazón sanando necesita claridad, no solo buenas intenciones.",
-      "question": "¿En qué relación o situación necesitas dejar de confundir amor con acceso ilimitado?",
-      "prayer": "Señor, dame sabiduría para amar sin perderme, para cuidar el corazón sin endurecerlo y para poner límites sin actuar desde orgullo ni miedo.",
-      "action": "Escribe un límite concreto y sano que necesitas empezar a respetar o comunicar.",
-      "memoryVerse": "Sobre toda cosa guardada, guarda tu corazón. — Proverbios 4:23"
-    },
-    {
-      "day": 6,
-      "title": "Dios puede sanar tu manera de amar",
-      "focusLine": "Hoy abrirás espacio para que Dios transforme no solo tu dolor, sino también tu forma de relacionarte.",
-      "beforeReading": "Antes de leer, pídele a Dios un corazón renovado, no solo aliviado.",
-      "references": [
-        {
-          "title": "Lectura principal",
-          "reference": "Ezequiel 36:26",
-          "bookId": 26,
-          "chapter": 36,
-          "verse": 26
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Salmos 51:10",
-          "bookId": 19,
-          "chapter": 51,
-          "verse": 10
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "2 Corintios 5:17",
-          "bookId": 47,
-          "chapter": 5,
-          "verse": 17
-        }
-      ],
-      "passageHighlight": "Os daré corazón nuevo.",
-      "reflection": "Cuando uno ha sido herido, no solo sufre por lo que pasó; también cambia su forma de vincularse. A veces aparece desconfianza, dureza, necesidad de control o miedo a volver a abrirse. Dios no solo quiere consolar tu dolor, también quiere tratar las marcas que dejó en tu manera de amar. Él puede renovar el corazón sin quitarle sensibilidad, y puede hacerlo más sabio sin volverlo frío.",
-      "question": "¿Qué cambio en tu manera de amar necesitas que Dios trabaje con más profundidad?",
-      "prayer": "Señor, dame un corazón nuevo. Sana no solo la herida, sino también las reacciones, defensas y patrones que nacieron de ella. Enséñame a amar desde una vida tratada por ti.",
-      "action": "Identifica una reacción que nació de tu herida y entrégasela hoy a Dios en oración.",
-      "memoryVerse": "Os daré corazón nuevo. — Ezequiel 36:26"
-    },
-    {
-      "day": 7,
-      "title": "No devuelvas mal por mal",
-      "focusLine": "Hoy aprenderás que la libertad no está en responder igual, sino en permanecer en el camino de Cristo.",
-      "beforeReading": "Pide al Señor dominio propio para no dejar que la herida dicte tu manera de responder.",
-      "references": [
-        {
-          "title": "Lectura principal",
-          "reference": "1 Pedro 3:9",
-          "bookId": 60,
-          "chapter": 3,
-          "verse": 9
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Romanos 12:21",
-          "bookId": 45,
-          "chapter": 12,
-          "verse": 21
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Lucas 6:27",
-          "bookId": 42,
-          "chapter": 6,
-          "verse": 27
-        }
-      ],
-      "passageHighlight": "No devolviendo mal por mal.",
-      "reflection": "La herida muchas veces quiere convencerte de que para protegerte debes endurecerte o responder igual. Pero no devolver mal por mal no es debilidad; es una forma profunda de libertad. Significa que el daño recibido no va a decidir el tipo de persona en la que te conviertes. Amar desde Cristo no te vuelve ingenuo; te vuelve firme, limpio y libre del veneno de la reacción.",
-      "question": "¿Qué respuesta impulsiva o defensiva necesitas dejar hoy antes de que se convierta en costumbre?",
-      "prayer": "Jesús, guarda mi manera de responder. No quiero que el dolor defina mis palabras, actitudes o decisiones. Enséñame a actuar con limpieza, verdad y dominio propio.",
-      "action": "Detén hoy una reacción impulsiva y reemplázala por una respuesta más sobria delante de Dios.",
-      "memoryVerse": "No devolviendo mal por mal. — 1 Pedro 3:9"
-    },
-    {
-      "day": 8,
-      "title": "Ama con discernimiento y paz",
-      "focusLine": "Hoy cerrarás este camino recordando que el amor maduro no es ciego: ve con claridad, discierne y permanece limpio.",
-      "beforeReading": "Pídele a Dios un amor guiado por su Espíritu, no por miedo, impulso o necesidad.",
-      "references": [
-        {
-          "title": "Lectura principal",
-          "reference": "Filipenses 1:9",
-          "bookId": 50,
-          "chapter": 1,
-          "verse": 9
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "Gálatas 5:22",
-          "bookId": 48,
-          "chapter": 5,
-          "verse": 22
-        },
-        {
-          "title": "Lectura de apoyo",
-          "reference": "1 Juan 4:19",
-          "bookId": 62,
-          "chapter": 4,
-          "verse": 19
-        }
-      ],
-      "passageHighlight": "Que vuestro amor abunde aún más y más en ciencia y en todo conocimiento.",
-      "reflection": "El amor que nace de un corazón tratado por Dios no es ingenuo ni precipitado. Aprende a discernir, a esperar, a poner límites, a decir verdad y a seguir caminando sin endurecerse. Tal vez no puedas resolver toda tu historia hoy, pero sí puedes salir de este proceso con una base más sana: amar desde la presencia de Dios y no desde la herida. Ese amor no es perfecto, pero sí más limpio, más sabio y más libre.",
-      "question": "¿Cómo se vería amar con verdad, paz y discernimiento en la etapa de vida en la que hoy estás?",
-      "prayer": "Señor, enséñame a amar de una manera sana, limpia y guiada por ti. Que mi corazón no se cierre por miedo ni se entregue sin sabiduría. Forma en mí un amor maduro, verdadero y lleno de tu paz.",
-      "action": "Escribe una decisión concreta para amar con más sabiduría a partir de hoy.",
-      "memoryVerse": "Que vuestro amor abunde aún más y más en ciencia y en todo conocimiento. — Filipenses 1:9"
     }
   ]
 }
